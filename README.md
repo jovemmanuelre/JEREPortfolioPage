@@ -5,6 +5,7 @@ This is the Main Portfolio Page that contains the overview of the projects I wor
 Add my picture here
 Add a brief summary of my experiences
 Technical Skills I'm good at
+Certifications
 My interests in the data domain
 
 
