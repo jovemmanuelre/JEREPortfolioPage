@@ -15,7 +15,7 @@ Brief description about the portfolio here
 ## [365 CAREERS BOOTCAMP PORTFOLIO](https://jovemmanuelre.github.io/Data-Science-Bootcamp-Projects-on-Github-Pages/)
 Brief description about the portfolio here
 
-## WHAT I'M WORKING ON
+## [WHAT I'M WORKING ON](https://jovemmanuelre.github.io/JEREWorkingOnProjects/)
 Currrently working on
 Projects
 Or a data-science related resource/book
