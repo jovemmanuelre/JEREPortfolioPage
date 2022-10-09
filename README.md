@@ -6,7 +6,7 @@ Add my picture here
 Add a brief summary of my experiences
 Technical Skills I'm good at
 Certifications
-My interests in the data domain
+My interests in the data domain, and how my experiences connect with them.
 
 
 ## [KAGGLE PORTFOLIO](https://jovemmanuelre.github.io/Kaggle-Projects-on-Github-Pages/)
