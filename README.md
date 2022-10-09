@@ -1,12 +1,14 @@
-# JEREPortfolioPage
+# Jov Emmanuel's Portfolio Page
 This is the Main Portfolio Page that contains the overview of the projects I work on.
 
-About Me
+## ABOUT ME
 
-Kaggle Portfolio Link
+## [KAGGLE PORTFOLIO]
+Brief description about the portfolio here
 
-Bootcamp Portfolio Link
+## [365 CAREERS BOOTCAMP PORTFOLIO] (https://jovemmanuelre.github.io/Data-Science-Bootcamp-Projects-on-Github-Pages/)
+Brief description about the portfolio here
 
-What I'm Working On
-
-Thank you!
+## WHAT I'M CURRENTLY WORKING ON
+Projects
+Or a data-science related resource/book
